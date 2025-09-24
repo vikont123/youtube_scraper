@@ -1,0 +1,7 @@
+pandas
+google-cloud-bigquery
+python-dotenv
+pytz
+google-generativeai
+google-api-python-client
+pandas_gbq
